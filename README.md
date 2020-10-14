@@ -1,4 +1,4 @@
-# progate-teamb18-github.io
+# progate-teamb18.github.io
 Progate-TeamTestB18-Frontend Batch II
 
 1. Riky Darmawan - Main Section
